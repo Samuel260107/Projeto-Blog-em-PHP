@@ -3,8 +3,8 @@
 ?>
   <main>
     <div id="title-container">
-      <h1>Blog Codar</h1>
-      <p>O seu blog de programação</p>
+      <h1>Cine<a>Mania</a></h1>
+      <p>O seu blog de CINEMA</p>
     </div>
     <div id="posts-container">
       <?php foreach($posts as $post): ?>
@@ -19,6 +19,9 @@
               <a href="#"><?= $tag ?></a>
             <?php endforeach; ?>
           </div>
+          <DIV id="ola">
+
+          </DIV>
         </div>
       <?php endforeach; ?>
     </div>
