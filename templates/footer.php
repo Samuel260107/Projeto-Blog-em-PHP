@@ -1,5 +1,9 @@
+<html>
+  <body>
 <footer>
   <p>Hora de Codar &copy; 2020</p>
-</footer>
+</footer>   
+<?php
+?>
 </body>
 </html>
