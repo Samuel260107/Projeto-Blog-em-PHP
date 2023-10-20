@@ -61,6 +61,10 @@ main {
 #title-container h1 {
   font-size: 50px;
 }
+#title-container a{
+  color: red;
+  font-size: 50px;
+}
 
 #title-container p {
   margin-top: 10px;

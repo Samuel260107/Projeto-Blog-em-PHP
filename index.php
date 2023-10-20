@@ -3,7 +3,7 @@
 ?>
   <main>
     <div id="title-container">
-      <h1>CineMania</h1>
+      <h1>Cine<a id="mania">Mania</a></h1>
       <p>O seu blog sobre FILMES</p>
     </div>
     <div id="posts-container">
