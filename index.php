@@ -3,8 +3,8 @@
 ?>
   <main>
     <div id="title-container">
-      <h1>Blog Codar</h1>
-      <p>O seu blog de programação</p>
+      <h1>CINEMANIA</h1>
+      <p>O seu blog sobre filmes</p>
     </div>
     <div id="posts-container">
       <?php foreach($posts as $post): ?>
