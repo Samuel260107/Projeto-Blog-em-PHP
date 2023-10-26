@@ -252,5 +252,9 @@
     .img-container img {
       width: 100%;
     }
-  
+    .post-content a{
+      line-height: 1.8;
+      margin: 10px 0;
+      text-align: justify; /* Texto justificado */
+    }
   }

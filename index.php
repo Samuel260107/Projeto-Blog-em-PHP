@@ -20,7 +20,6 @@
             <?php endforeach; ?>
           </div>
           <DIV id="ola">
-
           </DIV>
         </div>
       <?php endforeach; ?>
