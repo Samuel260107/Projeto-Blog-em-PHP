@@ -34,9 +34,9 @@
       Beatae vel corrupti laborum repudiandae, placeat neque officiis odit provident reiciendis ducimus amet rem. Exercitationem similique itaque labore asperiores quasi officia aspernatur quas soluta quos. Quasi aliquam in laboriosam illum.</p>
     </div>
     <aside id="nav-container">
-      <h3 id="tags-title">Tags</h3>
+      <h3 id="tags-title">Novidades</h3>
       <ul id="tag-list">
-        <?php foreach($currentPost['tags'] as $tag): ?>
+        <?php foreach($currentPost['Novidaes'] as $tag): ?>
           <li><a href="#"><?= $tag ?></a></li>
         <?php endforeach; ?>
       </ul>
