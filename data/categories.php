@@ -2,10 +2,10 @@
 
   $categories = [
     'Terror',
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'Bootstrap',
-    'Java',
+    'Comedia',
+    'Ação',
+    'Romance',
+    'Animação',
+    'Suspense',
     'C#'
   ];
