@@ -1,7 +1,7 @@
 <?php
 
   $categories = [
-    'PHP',
+    'Terror',
     'HTML',
     'CSS',
     'JavaScript',
