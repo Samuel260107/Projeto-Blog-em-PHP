@@ -2,46 +2,39 @@
   include_once("templates/header.php");
 ?>
   <h1>Contatos</h1>
-  <br>
-    <div class="telefone">
-      <img src="img/telefone.webp">
-      <h5>Telefone: </h5>
-      <p>+55 11 94616-4393</p>
-    </div>
-    <div class="email">
-      <img src="img/email.png">
-      <h5>Email: </h5>
-      <p>cinemania@gmail.com</p>
-    </div>
+  <div class="telefone">
+    <img src="img/telefone.webp">
+    <h4>Telefone:</h4>
+    <p>+55 1194616-4936</p>
+  </div>
+  <div class="email">
+    <img src="img/email.png">
+    <h4>Email:</h4>
+    <p>cinemania@gmail.com</p>
+  </div>
 
   <style>
-    body{
-      width: 100%;
-    }
     h1{
+      position: relative;
       text-align: center;
-      margin-top: 50px;
-      font-size:xx-large;
-      margin-bottom: 70px;
+      top: 20px;
     }
     img{
-      width: 150px;
-    } 
+      width: 100px;
+    }
     .telefone{
-      display: inline-block;
+      position: relative;
       margin-left: 25%;
-      /* margin-right: 50%; */
-      text-align: center;
-      font-size:large ;
+      top: 75px;      
     }
     .email{
-      display: inline-block;
       position: relative;
       float: right;
+      bottom: 65px;
       margin-right: 25%;
-      text-align: center;
-      font-size:large ;
+      
     }
-<?php
+  </style>
+  <?php
   include_once("templates/footer.php")
 ?>
